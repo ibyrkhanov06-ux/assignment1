@@ -1,2 +1,10 @@
 Algorithm,Size,TimeMs,Comparisons,Swaps,MaxDepth
-closest,100000,218,159,0,0,0
+closest,100000,187,529,0,0,0
+closest,10000,25,893,0,0,0
+closest,5000,32,487,0,0,0
+quicksort,5000,2,424,0,0,0
+quicksort,10000,3,724,0,0,0
+quicksort,100000,21,144,0,0,0
+mergesort,5000,2,269,0,0,0
+mergesort,10000,3,853,0,0,0
+mergesort,100000,21,518,0,0,0

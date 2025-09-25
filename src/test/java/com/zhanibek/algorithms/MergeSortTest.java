@@ -7,7 +7,7 @@ public class MergeSortTest {
 
     @Test
     void testSmallArray() {
-        int[] arr = {5, 2, 9, 1, 3};
+        int[] arr = {7, 2, 9, 1, 3};
         MergeSort.sort(arr);
         assertTrue(MergeSort.isSorted(arr));
     }
